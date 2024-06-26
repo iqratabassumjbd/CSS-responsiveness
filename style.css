@@ -1,0 +1,42 @@
+@media (min-width:319px) and (max-width:480px){
+    body {
+     
+      background-color:lightsalmon;
+    }
+  }
+  @media (min-width:481px) and (max-width:1200px){
+    body {
+    
+      background-color:powderblue ;
+      
+
+    }
+  }
+  @media (min-width:1201px) and (max-width:1600px){
+    body {
+      
+      background-color: limegreen;
+    }
+  }
+  @media (min-width:1601px){
+    body {
+      
+      background-color: seagreen;
+      h1{
+        font-size: 5rem;
+      }
+      h2{
+        font-size:4rem;
+      }
+      h3{
+        font-size: 3rem;
+      }
+      h4{
+        font-size: 2rem;
+      }
+      h5{
+        font-size: 1rem;
+      }
+    }
+  }
+  
